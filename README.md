@@ -1,14 +1,3 @@
-# Egg Timer
+# Tipsy
 
-## What I'll Make
-
-I’ll be building a egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What I learned
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+A app for dutch pay between people with total bill including tips.
